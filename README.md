@@ -1,1 +1,1 @@
-Live : https://ritik261.github.io/Weather/
+Live : https://ritik261.github.io/WeatherApp/
